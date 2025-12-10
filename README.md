@@ -2,9 +2,7 @@
 > [!NOTE]
 > ### Pagination, Archive page & 404 page
 
-
-
-<img width="300" height="400" alt="16" src="https://github.com/user-attachments/assets/24d22cae-7b19-423e-82d1-4475d71f986e" />
+<img width="300" height="400" alt="16" src="https://github.com/user-attachments/assets/5b57b490-d574-4e52-8791-67613cb7aff0" />
 ____________________________________________________________________________________________________________________________
 
 ### ● Pagination
